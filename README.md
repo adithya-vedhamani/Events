@@ -20,7 +20,7 @@
 ---
 
 ## Overview
-** Fullstack web application for discovering, booking, and managing event spaces. It supports multiple user roles (Consumers, Brand Owners, Staff), real-time bookings, payments (Razorpay), file uploads (Cloudinary), email notifications, and robust authentication.
+Fullstack application for discovering, booking, and managing events. It supports multiple user roles (Consumers, Brand Owners, Staff), real-time bookings, payments (Razorpay), file uploads (Cloudinary), email notifications, and robust authentication.
 
 ---
 
